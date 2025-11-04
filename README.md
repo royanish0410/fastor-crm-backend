@@ -2,6 +2,24 @@
 
 > A REST API for managing student enquiries with JWT authentication. Counselors can view and claim leads.
 
+[![Node.js](https://img.shields.io/badge/Node.js-v14+-green.svg)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/Express-v4.18-blue.svg)](https://expressjs.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-v7+-brightgreen.svg)](https://www.mongodb.com/)
+[![Live](https://img.shields.io/badge/Status-Live-success.svg)](https://fastor-crm-backend-wpwe.onrender.com)
+
+## 🌐 Live Deployment
+
+**Live API URL:** `https://fastor-crm-backend-wpwe.onrender.com`
+
+**Quick Test:**
+```bash
+curl https://fastor-crm-backend-wpwe.onrender.com/
+```
+
+**Note:** First request may take 30-60 seconds (Render free tier cold start). Subsequent requests are instant.
+
+---
+
 ## 📋 Table of Contents
 
 - [Features](#features)
